@@ -6,7 +6,7 @@ __pycache__/
 #idea
 .idea/
 .ipynb_checkpoints/
-.BusinessCardNer/
+./BusinessCardNer/
 
 
 #mac
@@ -145,3 +145,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+/BusinessCardNer/
