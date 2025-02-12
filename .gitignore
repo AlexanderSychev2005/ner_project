@@ -22,6 +22,7 @@ local/
 model-best/
 model-last/
 model/
+output/
 
 # Distribution / packaging
 .Python
